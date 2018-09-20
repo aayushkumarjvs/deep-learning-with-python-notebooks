@@ -7,7 +7,7 @@ The easiest way to run the code is to download the .ipynb file and upload it to 
 Numpy
 Tensorflow
 Matplotlib
-which are all we need to run CNPs.
+which are all we need to run this repo.
 
 Alternative you can open the .ipynb file using Jupyter notebook. If you do this you will also have to set up a local kernel that includes Tensorflow.
 
